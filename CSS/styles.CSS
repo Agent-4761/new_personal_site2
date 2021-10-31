@@ -1,0 +1,121 @@
+/*
+011627
+FF3366
+2EC4B6
+20A4F3
+*/
+
+/* font-family: 'Zen Kurenaido', sans-serif;
+font-family: 'Zen Old Mincho', serif;*/
+
+
+body
+{
+    background-color:#011627;
+    
+    
+    
+}
+
+
+
+p 
+{
+	color:#FF3366;
+}
+
+h1 
+{
+    color:#2EC4B6;
+    background-color: #1F2232;
+    display: flex; /* or inline-flex */
+    flex-direction: row;
+    justify-content: center;
+}
+
+h2
+{
+    color:#FFFFFF;
+    display: flex; /* or inline-flex */
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+li
+{
+    color:#FFFFFF;
+    
+}
+
+
+#navlist li {
+
+    font-family: 'Zen Old Mincho', serif;
+    background-color: #1F2232;
+    color:#F1D302;
+    
+    
+    
+}
+
+ul {
+
+    font-family: 'Zen Kurenaido', sans-serif;
+    
+    
+}
+
+p,
+ol {
+
+    font-family: 'Zen Kurenaido', sans-serif;
+    
+    
+    
+}
+
+.backstuff 
+{
+
+    background-color: #1F2232;
+    position:sticky;
+    top:0;
+    
+    display: flex; /* or inline-flex */
+    flex-direction: row;
+    justify-content: space-evenly;
+
+    
+
+    
+    
+}
+
+
+
+a:visited {
+
+    color: #FFFFFF
+
+}
+
+a:hover {
+
+    color: #F1D302;
+    
+}
+
+a:active, a:focus {
+
+    color: #BCED09;
+    
+}
+
+
+
+
+
+
+
+
